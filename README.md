@@ -18,20 +18,56 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm a <b>Software Engineering Student</b> with a strong interest in software development, technology, and mobile app development.<br>
-I enjoy designing applications, solving real-world problems through code, and continuously improving my programming skills.
+Estudiante de <b>Ingeniería de Software</b> en la Universidad Tecnológica de Panamá, con conocimientos en desarrollo web, bases de datos y programación.<br>
+Apasionado por la tecnología y la innovación, con capacidad de aprendizaje rápido, pensamiento lógico desarrollado y enfoque en resultados de calidad.
 </p>
 
 <table align="center">
 <tr>
 <td>
 
-- 🎓 Software Engineering Student
-- 📱 Focused on Mobile Development with **Kotlin & Jetpack Compose**
-- 💻 Passionate about Web Development
-- 🌱 Currently improving my Backend and Software Architecture skills
-- 🚀 Always learning something new
-- 📚 Interested in Software Design and Project Management
+- 🎓 Ingeniería de Software — Universidad Tecnológica de Panamá (2023 – Actualidad)
+- 📱 Enfocado en Desarrollo Móvil con **Kotlin & Jetpack Compose**
+- 💻 Apasionado por el Desarrollo Web
+- 🌱 Mejorando constantemente mis habilidades de Backend y Arquitectura de Software
+- 🤝 Adaptable, con trabajo en equipo y compromiso con la mejora continua
+- 🌎 Nativo en Español · Inglés Intermedio (TOEIC® 715pts)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🎓 Certificaciones</h2>
+
+<table align="center">
+<tr>
+<td>
+
+- ✅ Scrum Fundamentals Certified
+- ✅ AWS Educate: Introduction to Generative AI
+- ✅ Marketing Strategy Fundamentals
+- ✅ MTA: JavaScript (82pts)
+- ✅ Microsoft Excel (Office) — 1000pts
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🤝 Experiencia y Voluntariado</h2>
+
+<table align="center">
+<tr>
+<td>
+
+**Fundación Ayudinga** — Voluntario · Julio 2025 - Actualidad
+Clases de refuerzo en matemáticas a estudiantes de distintos grados.
+
+**Biomuseo, Ciudad de Panamá** — Guía Voluntario · Julio 2022 - Septiembre 2022
+Guió visitantes a través de exposiciones sobre biodiversidad y naturaleza de Panamá.
 
 </td>
 </tr>
@@ -63,6 +99,7 @@ I enjoy designing applications, solving real-world problems through code, and co
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
   <img src="https://img.shields.io/badge/SQL%20Server-0A0F2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
 </p>
 
 <p align="center"><b>Tools</b></p>
@@ -75,8 +112,6 @@ I enjoy designing applications, solving real-world problems through code, and co
   <img src="https://img.shields.io/badge/Power%20BI-0A0F2C?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-0A0F2C?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
 </p>
-
-<br>
 
 <br>
 
@@ -117,4 +152,6 @@ I enjoy designing applications, solving real-world problems through code, and co
   <i>"Code, Learn, Improve, Repeat."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A0F2C&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A0F2C&height=100&section=footer" width="100%"/>
+</p>
