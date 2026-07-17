@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:0D47A1,100:00BFFF&height=200&section=header&text=Gonzalo%20Hooker&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:0D47A1,100:00BFFF&height=200&section=header&text=Gonzalo%20Hooker&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,27 +11,23 @@
   <b style="color:#00BFFF">Thanks for stopping by!</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="0"/>
-</p>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Estudiante de <b>Ingeniería de Software</b> en la Universidad Tecnológica de Panamá, con conocimientos en desarrollo web, bases de datos y programación.<br>
-Apasionado por la tecnología y la innovación, con capacidad de aprendizaje rápido, pensamiento lógico desarrollado y enfoque en resultados de calidad.
+Software Engineering student at Universidad Tecnológica de Panamá, with a strong interest in <b>data analysis, web development, databases, and software quality</b>.<br>
+Passionate about technology and innovation, with fast learning ability, developed logical thinking, and a focus on delivering quality results.
 </p>
 
 <table align="center">
 <tr>
 <td>
 
-- 🎓 Ingeniería de Software — Universidad Tecnológica de Panamá (2023 – Actualidad)
-- 📱 Enfocado en Desarrollo Móvil con **Kotlin & Jetpack Compose**
-- 💻 Apasionado por el Desarrollo Web
-- 🌱 Mejorando constantemente mis habilidades de Backend y Arquitectura de Software
-- 🤝 Adaptable, con trabajo en equipo y compromiso con la mejora continua
-- 🌎 Nativo en Español · Inglés Intermedio (TOEIC® 715pts)
+- 🎓 Software Engineering — Universidad Tecnológica de Panamá (2023 – Present)
+- 📊 Focused on **Data Analysis with Python**
+- 🌐 Passionate about **Web Development**
+- 🗄️ Interested in **Databases**
+- ✅ Interested in **Software Quality** (QA, requirements gathering, testing)
+- 🌎 Native Spanish speaker · Intermediate English (TOEIC® 715pts)
 
 </td>
 </tr>
@@ -39,7 +35,53 @@ Apasionado por la tecnología y la innovación, con capacidad de aprendizaje rá
 
 <br>
 
-<h2 align="center">🎓 Certificaciones</h2>
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center"><b>Programming Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=openjdk&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
+</p>
+
+<p align="center"><b>Data Analysis</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-0A0F2C?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0F2C?style=for-the-badge&logo=numpy&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Jupyter-0A0F2C?style=for-the-badge&logo=jupyter&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0A0F2C?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0A0F2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
+</p>
+
+<p align="center"><b>Software Quality</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-0A0F2C?style=for-the-badge&logo=scrumalliance&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Jira-0A0F2C?style=for-the-badge&logo=jira&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Testing-0A0F2C?style=for-the-badge&logo=testinglibrary&logoColor=00BFFF"/>
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0F2C?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0A0F2C?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-0A0F2C?style=for-the-badge&logo=visualstudio&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Figma-0A0F2C?style=for-the-badge&logo=figma&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-0A0F2C?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
+</p>
+
+<br>
+
+<h2 align="center">🎓 Certifications</h2>
 
 <table align="center">
 <tr>
@@ -57,61 +99,21 @@ Apasionado por la tecnología y la innovación, con capacidad de aprendizaje rá
 
 <br>
 
-<h2 align="center">🤝 Experiencia y Voluntariado</h2>
+<h2 align="center">🤝 Experience and Volunteering</h2>
 
 <table align="center">
 <tr>
 <td>
 
-**Fundación Ayudinga** — Voluntario · Julio 2025 - Actualidad
-Clases de refuerzo en matemáticas a estudiantes de distintos grados.
+**Fundación Ayudinga** — Volunteer · July 2025 - Present
+Provided tutoring sessions in mathematics to students of different grades.
 
-**Biomuseo, Ciudad de Panamá** — Guía Voluntario · Julio 2022 - Septiembre 2022
-Guió visitantes a través de exposiciones sobre biodiversidad y naturaleza de Panamá.
+**Biomuseo, Panama City** — Volunteer Guide · July 2022 - September 2022
+Guided visitors through exhibitions on Panama's biodiversity and nature.
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center"><b>Programming Languages</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0A0F2C?style=for-the-badge&logo=kotlin&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=openjdk&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
-</p>
-
-<p align="center"><b>Mobile Development</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-0A0F2C?style=for-the-badge&logo=android&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-0A0F2C?style=for-the-badge&logo=jetpackcompose&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-0A0F2C?style=for-the-badge&logo=androidstudio&logoColor=00BFFF"/>
-</p>
-
-<p align="center"><b>Databases</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-0A0F2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
-</p>
-
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/GitHub-0A0F2C?style=for-the-badge&logo=github&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0A0F2C?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-0A0F2C?style=for-the-badge&logo=visualstudio&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Figma-0A0F2C?style=for-the-badge&logo=figma&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Power%20BI-0A0F2C?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-0A0F2C?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
-</p>
 
 <br>
 
@@ -121,12 +123,11 @@ Guió visitantes a través de exposiciones sobre biodiversidad y naturaleza de P
 <tr>
 <td>
 
-- 📱 Build solid mobile apps with Jetpack Compose
-- 📖 Strengthen my software engineering knowledge
-- 🌐 Build modern web applications
-- ⚡ Learn new frameworks and technologies
-- 🤝 Contribute to open-source projects
-- 🚀 Continue growing as a developer
+- 📖 Keep learning
+- 🌐 Explore new technologies
+- 🚀 Seek new challenges
+- 💡 Build applications that are useful for society
+- 😊 Be happy with what I do
 
 </td>
 </tr>
@@ -140,6 +141,9 @@ Guió visitantes a través de exposiciones sobre biodiversidad y naturaleza de P
   <a href="https://www.linkedin.com/in/gonzalo-hooker-521773233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
   </a>
+  <a href="mailto:gonzalohooker19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0F2C?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+  </a>
 </p>
 
 <br>
@@ -149,7 +153,7 @@ Guió visitantes a través de exposiciones sobre biodiversidad y naturaleza de P
 </p>
 
 <p align="center">
-  <i>"Code, Learn, Improve, Repeat."</i>
+  <i>"Las dudas deben ser un método para buscar la verdad"</i>
 </p>
 
 <p align="center">
