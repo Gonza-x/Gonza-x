@@ -82,8 +82,8 @@ Passionate about technology and innovation, with fast learning ability, develope
 - ✅ Scrum Fundamentals Certified
 - ✅ AWS Educate: Introduction to Generative AI
 - ✅ Marketing Strategy Fundamentals
-- ✅ MTA: JavaScript (82pts)
-- ✅ Microsoft Excel (Office) — 1000pts
+- ✅ MTA: JavaScript 
+- ✅ Microsoft Excel 
 
 </td>
 </tr>
