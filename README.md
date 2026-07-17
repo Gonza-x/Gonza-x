@@ -98,23 +98,6 @@ Passionate about technology and innovation, with fast learning ability, develope
 </table>
 
 <br>
-
-<h2 align="center">🤝 Experience and Volunteering</h2>
-
-<table align="center">
-<tr>
-<td>
-
-**Fundación Ayudinga** — Volunteer · July 2025 - Present
-Provided tutoring sessions in mathematics to students of different grades.
-
-**Biomuseo, Panama City** — Volunteer Guide · July 2022 - September 2022
-Guided visitors through exhibitions on Panama's biodiversity and nature.
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <h2 align="center">🎯 Current Goals</h2>
