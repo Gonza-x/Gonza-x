@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-  <b style="color:#00BFFF">Thanks for stopping by!</b>
+  <b style="color:#00BFFF"> Hey I See You There :) !</b>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
