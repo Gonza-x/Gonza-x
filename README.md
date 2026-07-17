@@ -22,12 +22,12 @@ Passionate about technology and innovation, with fast learning ability, develope
 <tr>
 <td>
 
-- 🎓 Software Engineering — Universidad Tecnológica de Panamá (2023 – Present)
+- 🎓 Software Engineering — Universidad Tecnológica de Panamá
 - 📊 Focused on **Data Analysis with Python**
 - 🌐 Passionate about **Web Development**
 - 🗄️ Interested in **Databases**
 - ✅ Interested in **Software Quality** (QA, requirements gathering, testing)
-- 🌎 Native Spanish speaker · Intermediate English (TOEIC® 715pts)
+- 🌎 Native Spanish speaker · Intermediate English 
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Passionate about technology and innovation, with fast learning ability, develope
 </p>
 
 <p align="center">
-  <i>"Las dudas deben ser un método para buscar la verdad"</i>
+  <i>"Doubting should be a way of seeking the truth"</i>
 </p>
 
 <p align="center">
