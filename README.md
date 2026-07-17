@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Hooker</h1>
-<h3 align="center">Software Engineering Student | Passionate about Building Software</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:0D47A1,100:00BFFF&height=200&section=header&text=Gonzalo%20Hooker&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Kotlin+%7C+Jetpack+Compose+%7C+Python;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Kotlin+%7C+Jetpack+Compose+%7C+Python;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+  <b style="color:#00BFFF">Thanks for stopping by!</b>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="0"/>
+</p>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm a **Software Engineering Student** with a strong interest in software development, technology, and mobile app development.
+<p align="center">
+I'm a <b>Software Engineering Student</b> with a strong interest in software development, technology, and mobile app development.<br>
+I enjoy designing applications, solving real-world problems through code, and continuously improving my programming skills.
+</p>
 
-I enjoy designing applications, solving real-world problems through code, and continuously improving my programming skills. I'm always looking for opportunities to learn new technologies and best practices in software engineering.
+<table align="center">
+<tr>
+<td>
 
 - 🎓 Software Engineering Student
 - 📱 Focused on Mobile Development with **Kotlin & Jetpack Compose**
@@ -24,66 +31,74 @@ I enjoy designing applications, solving real-world problems through code, and co
 - 🚀 Always learning something new
 - 📚 Interested in Software Design and Project Management
 
-<br>
-
-## 💻 Tech Stack
-
-**Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📈 GitHub Stats
+<h2 align="center">💻 Tech Stack</h2>
 
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gonza-x&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonza-x&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Kotlin-0A0F2C?style=for-the-badge&logo=kotlin&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=openjdk&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
 </p>
 
+<p align="center"><b>Mobile Development</b></p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gonza-x&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Android-0A0F2C?style=for-the-badge&logo=android&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-0A0F2C?style=for-the-badge&logo=jetpackcompose&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-0A0F2C?style=for-the-badge&logo=androidstudio&logoColor=00BFFF"/>
 </p>
 
+<p align="center"><b>Databases</b></p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gonza-x&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-0A0F2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0F2C?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0A0F2C?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-0A0F2C?style=for-the-badge&logo=visualstudio&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Figma-0A0F2C?style=for-the-badge&logo=figma&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0A0F2C?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-0A0F2C?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
 </p>
 
 <br>
 
-## 🎯 Current Goals
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gonza-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonza-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=00BFFF&text_color=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gonza-x&theme=tokyonight&hide_border=true&background=0A0F2C&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gonza-x&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+<h2 align="center">🎯 Current Goals</h2>
+
+<table align="center">
+<tr>
+<td>
 
 - 📱 Build solid mobile apps with Jetpack Compose
 - 📖 Strengthen my software engineering knowledge
@@ -92,22 +107,28 @@ I enjoy designing applications, solving real-world problems through code, and co
 - 🤝 Contribute to open-source projects
 - 🚀 Continue growing as a developer
 
+</td>
+</tr>
+</table>
+
 <br>
 
-## 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-hooker-521773233" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gonza-x&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gonza-x&color=0BC5FF&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
   <i>"Code, Learn, Improve, Repeat."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A0F2C&height=100&section=footer"/>
