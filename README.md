@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Kotlin+%7C+Jetpack+Compose+%7C+Python;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVnOGJkbW9zZjlkN2h5bmJza3U5ajZjaW1sYWlnZWpnN3J4OXNmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QkNyWvBVpSNRZc9zOI/giphy.gif" width="450"/>
 </p>
