@@ -62,13 +62,6 @@ Passionate about technology and innovation, with fast learning ability, develope
   <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
 </p>
 
-<p align="center"><b>Software Quality</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scrum-0A0F2C?style=for-the-badge&logo=scrumalliance&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Jira-0A0F2C?style=for-the-badge&logo=jira&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Testing-0A0F2C?style=for-the-badge&logo=testinglibrary&logoColor=00BFFF"/>
-</p>
-
 <p align="center"><b>Tools</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git&logoColor=00BFFF"/>
