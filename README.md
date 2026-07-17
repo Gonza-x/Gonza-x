@@ -8,8 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-  <b>Thanks for stopping by!</b>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVnOGJkbW9zZjlkN2h5bmJza3U5ajZjaW1sYWlnZWpnN3J4OXNmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QkNyWvBVpSNRZc9zOI/giphy.gif" width="450"/>
 </p>
 
 <br>
