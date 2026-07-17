@@ -79,21 +79,6 @@ I enjoy designing applications, solving real-world problems through code, and co
 
 <br>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gonza-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonza-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F2C&title_color=00BFFF&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gonza-x&theme=tokyonight&hide_border=true&background=0A0F2C&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gonza-x&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
 <br>
 
 <h2 align="center">🎯 Current Goals</h2>
