@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:0D47A1,100:00BFFF&height=200&section=header&text=Gonzalo%20Hooker&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:0D47A1,100:00BFFF&height=200&section=header&text=Gonzalo%20Hooker&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Kotlin+%7C+Jetpack+Compose+%7C+Python;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
