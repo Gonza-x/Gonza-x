@@ -59,7 +59,6 @@ Passionate about technology and innovation, with fast learning ability, develope
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
   <img src="https://img.shields.io/badge/SQL%20Server-0A0F2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Oracle-0A0F2C?style=for-the-badge&logo=oracle&logoColor=00BFFF"/>
 </p>
 
 <p align="center"><b>Tools</b></p>
